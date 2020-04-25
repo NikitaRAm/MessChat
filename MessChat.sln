@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessChat", "MessChat\MessChat.csproj", "{4D3C7BE5-C44F-4BEC-AABC-A1B893D13CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3C7BE5-C44F-4BEC-AABC-A1B893D13CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3C7BE5-C44F-4BEC-AABC-A1B893D13CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3C7BE5-C44F-4BEC-AABC-A1B893D13CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3C7BE5-C44F-4BEC-AABC-A1B893D13CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A7EF60-D673-4CC2-98FB-FAD2D2E2F48B}
+	EndGlobalSection
+EndGlobal
