@@ -1,0 +1,5 @@
+E:\CourseWork\publico-master\Publico\obj\Debug\netcoreapp3.1\Publico.csprojAssemblyReference.cache
+E:\CourseWork\publico-master\Publico\obj\Debug\netcoreapp3.1\Publico.csproj.CoreCompileInputs.cache
+E:\CourseWork\publico-master\Publico\obj\Debug\netcoreapp3.1\Publico.MvcApplicationPartsAssemblyInfo.cache
+E:\CourseWork\publico-master\Publico\obj\Debug\netcoreapp3.1\Publico.AssemblyInfoInputs.cache
+E:\CourseWork\publico-master\Publico\obj\Debug\netcoreapp3.1\Publico.AssemblyInfo.cs
